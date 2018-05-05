@@ -1,0 +1,29 @@
+{
+  "name": "pnt_to_sprite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "larisa",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-spritesmith": "^6.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barolina/png_to_sprite.git"
+  },
+  "keywords": [
+    "pnt",
+    "to",
+    "sprite"
+  ],
+  "bugs": {
+    "url": "https://github.com/Barolina/png_to_sprite/issues"
+  },
+  "homepage": "https://github.com/Barolina/png_to_sprite#readme",
+  "description": ""
+}
