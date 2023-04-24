@@ -8,7 +8,7 @@
   "author": "larisa",
   "license": "ISC",
   "dependencies": {
-    "grunt": "^1.0.2",
+    "grunt": "^1.6.1",
     "grunt-spritesmith": "^6.6.0"
   },
   "devDependencies": {},
